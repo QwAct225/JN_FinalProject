@@ -1,0 +1,13 @@
+<config>
+    <interface hosts='accessPoint' address='192.168.1.1' netmask='255.255.255.0'/>
+    <interface hosts='client0' address='192.168.1.2' netmask='255.255.255.0'/>
+    <interface hosts='client1' address='192.168.1.3' netmask='255.255.255.0'/>
+    <interface hosts='client2' address='192.168.1.4' netmask='255.255.255.0'/>
+    <interface hosts='client3' address='192.168.1.5' netmask='255.255.255.0'/>
+    <interface hosts='client4' address='192.168.1.6' netmask='255.255.255.0'/>
+    <interface hosts='client5' address='192.168.1.7' netmask='255.255.255.0'/>
+    <interface hosts='client6' address='192.168.1.8' netmask='255.255.255.0'/>
+    <interface hosts='client7' address='192.168.1.9' netmask='255.255.255.0'/>
+    <interface hosts='client8' address='192.168.1.10' netmask='255.255.255.0'/>
+    <interface hosts='client9' address='192.168.1.11' netmask='255.255.255.0'/>
+</config>
